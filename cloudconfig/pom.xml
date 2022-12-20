@@ -8,11 +8,11 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dailycodebuffer</groupId>
-	<artifactId>cloud-config-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>cloud-config-server</name>
-	<description>cloud-config-server</description>
+	<groupId>com.microservices</groupId>
+	<artifactId>cloudconfig</artifactId>
+	<version>1.0</version>
+	<name>cloudconfig</name>
+	<description>cloudconfig</description>
 
 	<properties>
 		<java.version>11</java.version>

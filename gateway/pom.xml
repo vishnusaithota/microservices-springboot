@@ -8,11 +8,11 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dailycodebuffer</groupId>
-	<artifactId>cloud-gateway</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>cloud-gateway</name>
-	<description>cloud-gateway</description>
+	<groupId>com.microservices</groupId>
+	<artifactId>gateway</artifactId>
+	<version>1.0</version>
+	<name>gateway</name>
+	<description>gateway</description>
 
 	<properties>
 		<java.version>11</java.version>
